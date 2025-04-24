@@ -1,0 +1,52 @@
+sports,countries,leagues,pronos,date,time,team_1,team_2,outcome,odds,value,probability
+Football,Thailand,Thai League 1,"Home/Away, FT including OT","26 Apr,",02:00,Montreal Canadiens,Washington Capitals,1,6.50,3.13,46.49%
+Football,Brazil,Serie C,"O/U 4.5, 1st Half","27 Apr,",14:00,Muang Thong Utd,Nakhon Ratchasima FC,Over,41.00,2.60,7.65%
+Football,Africa,CAF Champions League,"O/U 3.5, 1st Half","27 Apr,",01:30,CSA,Nautico,Over,34.00,2.45,7.91%
+Football,Brazil,Serie C,"O/U 3.5, 1st Half","Tomorr.,",21:00,Pyramids,Orlando Pirates,Over,34.00,2.42,7.80%
+Football,Thailand,Thai League 1,"O/U 3.5, 1st Half","27 Apr,",22:30,Itabaiana,Sao Bernardo,Over,34.00,2.42,7.78%
+Football,Bulgaria,Parva liga,"Home/Away, FT including OT","26 Apr,",03:00,Zarate,Quimsa,2,2.87,2.35,80.24%
+Football,Ecuador,Liga Pro,"O/U 4.5, 1st Half","27 Apr,",14:00,Pathum United,Sukhothai,Over,34.00,2.31,7.77%
+Football,Ecuador,Liga Pro,"O/U 3.5, 1st Half","28 Apr,",17:30,Septemvri Sofia,Lok. Plovdiv,Over,34.00,2.28,7.79%
+Football,Peru,Liga 1,"O/U 3.5, 1st Half","26 Apr,",22:00,Vinotinto,Dep. Cuenca,Over,34.00,2.25,7.62%
+Football,Europe,Champions League Women,"O/U 3.5, 1st Half","28 Apr,",02:00,Emelec,Tecnico U.,Over,34.00,2.25,7.62%
+Football,Spain,Primera RFEF - Group 1,"O/U 3.5, 1st Half","26 Apr,",21:00,Ayacucho,Alianza Atl.,Over,34.00,2.21,7.47%
+Football,Spain,Primera RFEF - Group 2,"TQ, FT including OT","27 Apr,",16:00,Chelsea W,Barcelona W,1,34.00,2.18,6.84%
+Football,Spain,Primera RFEF - Group 2,"O/U 3.5, 1st Half","26 Apr,",19:00,Osasuna B,Andorra,Over,29.00,2.13,7.62%
+Football,Spain,Primera RFEF - Group 1,"O/U 3.5, 1st Half","Tomorr.,",21:30,Marbella,Atl. Madrid B,Over,29.00,2.09,7.69%
+Football,Trinidad and Tobago,TT Premier League,"O/U 3.5, 1st Half","27 Apr,",13:00,Real Madrid B,Ceuta,Over,29.00,2.09,7.76%
+Football,Spain,Primera RFEF - Group 2,"O/U 3.5, 1st Half","26 Apr,",20:00,Arenteiro,Lugo,Over,29.00,2.09,7.77%
+Football,Spain,Primera RFEF - Group 1,1X2,"26 Apr,",03:00,Defence Force,Morvant Caledonia Utd,2,56.00,2.07,3.83%
+Football,Spain,Primera RFEF - Group 1,"O/U 3.5, 1st Half","27 Apr,",18:30,Murcia,Villarreal B,Over,29.00,2.07,7.59%
+Football,Canada,Canadian Premier League,"O/U 3.5, 1st Half","26 Apr,",21:00,Real Sociedad B,Unionistas,Over,29.00,2.07,7.59%
+Football,Japan,J2 League,"O/U 3.5, 1st Half","26 Apr,",17:00,Ath Bilbao B,Cultural Leonesa,Over,26.00,2.07,8.21%
+Football,Italy,Serie A,"O/U 3.5, 1st Half","27 Apr,",00:00,Cavalry,Atl. Ottawa,Over,29.00,2.03,7.63%
+Football,Scotland,Championship,"O/U 3.5, 1st Half","Tomorr.,",13:00,Iwata,Oita Trinita,Over,34.00,2.02,7.07%
+Football,Spain,LaLiga,"O/U 4.5, 1st Half","28 Apr,",21:45,Lazio,Parma,Over,65.00,2.00,3.97%
+Football,Peru,Liga 1,"O/U 3.5, 1st Half","26 Apr,",17:00,Raith,Morton,Over,41.00,2.00,6.01%
+Football,Australia,NPL Tasmania,"O/U 4.5, 1st Half","27 Apr,",17:15,Villarreal,Espanyol,Over,65.00,1.99,3.94%
+Football,Peru,Liga 1,1X2,"10 May,",17:20,Sweden,Austria,X,34.00,1.98,5.63%
+Football,Spain,Primera RFEF - Group 2,O/U 6.5,"27 Apr,",21:15,Los Chankas,FBC Melgar,Over,29.00,1.97,7.65%
+Football,Spain,Primera RFEF - Group 2,1X2,"26 Apr,",07:15,Riverside Olympic,Glenorchy Knights,1,61.00,1.97,3.05%
+Football,Japan,J2 League,O/U 6.5,"29 Apr,",03:00,Cienciano,Sport Huancayo,Over,26.00,1.95,8.34%
+Football,Spain,Primera RFEF - Group 2,"O/U 3.5, 1st Half","27 Apr,",16:30,Merida AD,Antequera,Over,26.00,1.94,7.93%
+Football,England,Premier League,"O/U 3.5, 1st Half","27 Apr,",20:30,Hercules,Alcorcon,Over,26.00,1.94,7.93%
+Hockey,USA,NHL,"O/U 3.5, 1st Half","26 Apr,",08:00,Renofa Yamaguchi,Imabari,Over,34.00,1.93,6.89%
+Basketball,Argentina,Liga A,"O/U 3.5, 1st Half","27 Apr,",13:00,Sevilla FC B,Betis B,Over,26.00,1.93,7.82%
+Hockey,World,World Championship,"O/U 4.5, 1st Half","26 Apr,",17:00,Southampton,Fulham,Over,65.00,1.93,3.85%
+Boxing,World,Super Featherweight - WBA/WBC/WBO/IBO/IBF Titles Women,1X2,"12 Jul,",01:00,Baumgardner A.,Miranda J.,X,50.00,1.84,4.07%
+Handball,France,Starligue,DNB,"26 Apr,",21:00,PSG,Tremblay,2,21.00,1.79,8.89%
+Futsal,Poland,Ekstraklasa,1X2,"26 Apr,",20:00,Ruda Slaska,Bielsko-Biala,1,31.00,1.77,5.52%
+Boxing,World,Lightweight - Others matches Men,1X2,"08 Jun,",01:00,Mason A.,Nakathila J.,X,46.00,1.75,3.99%
+Boxing,World,Super Middleweight - Others matches Men,1X2,"01 Jun,",01:00,Charlo Ja.,LaManna T.,X,38.00,1.70,4.56%
+Hockey,World,World Championship,1X2,"10 May,",13:20,Slovenia,Canada,X,30.00,1.70,5.65%
+Hockey,World,World Championship,1X2,"10 May,",13:20,Slovenia,Canada,1,50.00,1.70,3.49%
+Boxing,World,Bantamweight - WBO Title Men,1X2,"28 May,",13:00,Takei Y.,Tongdee Y.,X,38.00,1.66,4.47%
+Futsal,Poland,Ekstraklasa,1X2,"26 Apr,",20:00,Ruda Slaska,Bielsko-Biala,X,18.00,1.65,8.76%
+Boxing,World,Super Middleweight - Others matches Men,1X2,"01 Jun,",01:00,Plant C.,Resendiz J. A.,X,41.00,1.60,3.88%
+Boxing,World,Heavyweight - Others matches Men,1X2,"24 May,",21:00,Itauma M.,Balogun M.,X,50.00,1.59,3.21%
+Boxing,World,Super Bantamweight - IBF/WBC/WBO Titles Men,1X2,"05 May,",01:00,Inoue N.,Cardenas R.,2,26.00,1.59,5.81%
+Boxing,World,Lightweight - WBO Title Men,1X2,"08 Jun,",01:00,Davis K.,De Los Santos E.,X,38.00,1.58,4.17%
+Boxing,World,Super Bantamweight - IBF/WBC/WBO Titles Men,1X2,"05 May,",01:00,Inoue N.,Cardenas R.,X,41.00,1.57,3.65%
+Boxing,World,Super Bantamweight - IBF/WBC/WBO Titles Women,1X2,"12 Jul,",01:00,Scotney E.,Mercado Y.,X,36.00,1.54,4.22%
+Boxing,World,Super Lightweight - IBF/IBO/WBA/WBC/WBO Titles Women,1X2,"12 Jul,",01:00,Taylor K.,Serrano A.,X,20.00,1.53,7.47%
+American football,USA,NCAA,"Home/Away, FT including OT","30 Aug,",23:00,Syracuse,Tennessee,1,6.58,1.53,22.17%
