@@ -1,0 +1,2 @@
+# Ignorer tous les fichiers avec une extension ".csv"
+*.csv
