@@ -35,8 +35,6 @@ with sync_playwright() as p:
         logger.info("Clic sur 'All sports' effectué")
 
         time.sleep(2)
-        page.screenshot(path="screenshot.png")
-        logger.info("Capture d'écran enregistrée")
 
         html = page.content()
         logger.info("Contenu HTML récupéré")

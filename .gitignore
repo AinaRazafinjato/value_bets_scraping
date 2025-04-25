@@ -1,5 +1,4 @@
 # Ignorer tous les fichiers avec une extension ".csv, .png, .log, .html"
 *.csv
-*.png
 *.log
 *.html
