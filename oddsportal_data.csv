@@ -1,53 +1,47 @@
 sports,countries,leagues,pronos,date,time,team_1,team_2,outcome,bookmaker,odds,value,probability
-Football,Egypt,Premier League,"Home/Away, FT including OT",2025-04-26,03:00,Zarate,Quimsa,2,Pinnacle,3.06,2.6,80.66
-Football,Thailand,Thai League 1,"Home/Away, FT including OT",2025-04-26,22:30,Memphis Grizzlies,Oklahoma City Thunder,1,BC.Game,50.0,6.02,13.22
-Handball,France,Starligue,"1X2, 1st Half",2025-04-26,21:00,PSG,Tremblay,2,22Bet,13.7,1.54,10.53
-Rugby Union,Europe,European Rugby Champions Cup,1X2,2025-05-03,19:30,Leinster,Northampton Saints,2,GGBET,19.31,1.85,9.07
-Futsal,Poland,Ekstraklasa,1X2,2025-04-26,20:00,Ruda Slaska,Bielsko-Biala,X,1xBet,18.0,1.7,8.95
-Handball,France,Starligue,DNB,2025-04-26,21:00,PSG,Tremblay,2,bet365,21.0,1.8,8.77
-Tennis,Serbia,ITF M15 Kursumlijska Banja Men Doubles,Home/Away,,16:00,Massard L./Tessa L.,Matovic J./Stefanovic M.,2,Betfair,17.0,1.54,8.71
-Football,Thailand,Thai League 1,"O/U 3.5, 1st Half",2025-05-01,17:00,Ceramica Cleopatra,National Bank Egypt,Over,1xBet,34.0,2.4,8.36
-Football,Italy,Serie C - Group A,"O/U 3.5, 1st Half",2025-05-01,20:00,Al Masry,Zamalek,Over,1xBet,34.0,2.37,8.17
-Football,Scotland,Championship,"O/U 3.5, 1st Half",2025-04-27,21:30,UD Ibiza,Fuenlabrada,Over,1xBet,26.0,2.05,8.1
-Football,Japan,J3 League,"O/U 3.5, 1st Half",2025-04-27,20:30,Hercules,Alcorcon,Over,1xBet,26.0,1.94,7.93
-Football,Japan,J2 League,"O/U 3.5, 1st Half",2025-04-27,16:30,Merida AD,Antequera,Over,1xBet,26.0,1.94,7.93
-Football,Spain,Primera RFEF - Group 1,"O/U 3.5, 1st Half",2025-04-27,01:30,CSA,Nautico,Over,1xBet,29.0,2.09,7.89
-Basketball,USA,NBA,"O/U 3.5, 1st Half",2025-04-27,20:30,Zamora,Celta Vigo B,Over,1xBet,26.0,1.92,7.8
-Football,Egypt,Premier League,"O/U 3.5, 1st Half",2025-04-27,22:30,Itabaiana,Sao Bernardo,Over,1xBet,34.0,2.42,7.78
-Football,Europe,Champions League Women,"O/U 4.5, 1st Half",2025-04-27,14:00,Pathum United,Sukhothai,Over,1xBet,34.0,2.31,7.77
-Football,South Korea,K3 League,"O/U 4.5, 1st Half",2025-04-27,14:00,Muang Thong Utd,Nakhon Ratchasima FC,Over,1xBet,41.0,2.6,7.65
-Football,Italy,Serie A,"O/U 3.5, 1st Half",2025-04-27,00:00,Cavalry,Atl. Ottawa,Over,1xBet,29.0,2.03,7.63
-Football,South Korea,K3 League,"O/U 3.5, 1st Half",2025-04-26,21:00,Yeclano,Algeciras,Over,1xBet,34.0,2.28,7.6
-Football,Spain,Primera RFEF - Group 2,"O/U 3.5, 1st Half",2025-04-27,01:00,San Carlos,Herediano,Over,1xBet,34.0,2.1,7.59
-Football,Canada,Canadian Premier League,"O/U 3.5, 1st Half",2025-04-27,18:30,Murcia,Villarreal B,Over,1xBet,29.0,2.07,7.59
-Football,Japan,J2 League,"O/U 3.5, 1st Half",2025-04-26,21:00,Real Sociedad B,Unionistas,Over,1xBet,29.0,2.07,7.59
-Football,Costa Rica,Primera Division,"O/U 3.5, 1st Half",2025-04-26,08:00,Chuncheon,Daejeon Korail,Over,1xBet,34.0,2.15,7.13
-Football,Ecuador,Liga Pro,"O/U 3.5, 1st Half",,13:00,Mito,Kofu,Over,1xBet,34.0,2.02,7.09
-Football,Brazil,Serie C,O/U 5.5,,17:30,Pergolettese,Pro Patria,Over,1xBet,34.0,2.13,7.08
-Football,Japan,J2 League,"O/U 3.5, 1st Half",2025-04-26,22:00,Vinotinto,Dep. Cuenca,Over,1xBet,34.0,1.95,7.03
-Football,Brazil,Serie C,1X2,2025-04-26,17:00,Bath,Newcastle Falcons,2,GGBET,41.1,2.8,6.95
-Football,Brazil,Copa Betano do Brasil,"O/U 3.5, 1st Half",,17:30,Triestina,Novara,Over,1xBet,34.0,2.11,6.93
-Football,Spain,Primera RFEF - Group 1,"O/U 3.5, 1st Half",2025-04-26,08:00,Renofa Yamaguchi,Imabari,Over,1xBet,34.0,1.93,6.91
-Football,Italy,Serie C - Group A,"O/U 3.5, 1st Half",,13:00,Iwata,Oita Trinita,Over,1xBet,34.0,1.93,6.91
-Football,Spain,Primera RFEF - Group 2,"O/U 3.5, 1st Half",2025-04-26,08:00,Paju Citizen,Gimhae,Over,1xBet,41.0,2.39,6.88
-Football,Italy,Serie C - Group A,"O/U 3.5, 1st Half",,17:30,Pergolettese,Pro Patria,Over,1xBet,41.0,2.21,6.76
-Rugby Union,England,Premiership Rugby,"O/U 3.5, 1st Half",,17:30,Alcione Milano,Giana Erminio,Over,1xBet,34.0,1.92,6.68
-Football,Italy,Serie C - Group A,"TQ, FT including OT",2025-04-27,16:00,Chelsea W,Barcelona W,1,bet365,34.0,2.18,6.67
-Football,Spain,LaLiga,"O/U 3.5, 1st Half",2025-04-26,08:00,Giravanz Kitakyushu,Yamaga,Over,1xBet,34.0,1.92,6.59
-Football,Spain,Primera RFEF - Group 2,"O/U 4.5, 1st Half",2025-05-01,01:00,Botafogo RJ,Capital,Over,1xBet,41.0,2.08,6.02
-Football,Spain,Primera RFEF - Group 2,"O/U 3.5, 1st Half",2025-04-26,17:00,Raith,Morton,Over,1xBet,41.0,2.0,6.01
-Boxing,World,Super Bantamweight - IBF/WBC/WBO Titles Men,1X2,2025-05-05,01:00,Inoue N.,Cardenas R.,2,Betfair,26.0,1.55,5.68
-Futsal,Poland,Ekstraklasa,1X2,2025-04-26,20:00,Ruda Slaska,Bielsko-Biala,1,1xBet,31.0,1.83,5.64
-Hockey,World,World Championship,1X2,2025-05-10,13:20,Slovenia,Canada,X,Betsafe,30.0,1.7,5.64
-Hockey,World,World Championship,1X2,2025-05-10,17:20,Sweden,Austria,X,Betfair,34.0,1.9,5.47
-Boxing,World,Super Middleweight - Others matches Men,1X2,2025-06-01,01:00,Charlo Ja.,LaManna T.,X,1xBet,35.0,1.61,4.6
-Boxing,World,Lightweight - WBO Title Men,1X2,2025-06-08,01:00,Davis K.,De Los Santos E.,X,22Bet,38.0,1.58,4.17
-Football,Spain,Primera RFEF - Group 2,"O/U 4.5, 1st Half",2025-04-28,21:45,Lazio,Parma,Over,1xBet,65.0,1.98,3.9
-Basketball,Argentina,Liga A,"O/U 4.5, 1st Half",2025-04-27,17:15,Villarreal,Espanyol,Over,1xBet,65.0,1.92,3.83
-Boxing,World,Super Middleweight - Others matches Men,1X2,2025-06-01,01:00,Plant C.,Resendiz J. A.,X,1xBet,49.0,1.79,3.79
-Boxing,World,Super Bantamweight - IBF/WBC/WBO Titles Men,1X2,2025-05-05,01:00,Inoue N.,Cardenas R.,X,Betfair,41.0,1.55,3.62
-Basketball,Switzerland,SB League,"1X2, 1st Half",2025-04-26,18:30,BBC Monthey,Fribourg Olympic,X,Cloudbet,48.74,1.77,3.57
-Hockey,World,World Championship,1X2,2025-05-10,13:20,Slovenia,Canada,1,Betsafe,50.0,1.7,3.49
-Boxing,World,Heavyweight - Others matches Men,1X2,2025-05-24,21:00,Itauma M.,Balogun M.,X,1xBet,50.0,1.59,3.21
-Rugby Union,Europe,European Rugby Champions Cup,1X2,2025-05-03,19:30,Leinster,Northampton Saints,X,GGBET,76.52,1.83,2.37
-Rugby Union,England,Premiership Rugby,1X2,2025-04-26,17:00,Bath,Newcastle Falcons,X,GGBET,92.14,1.86,2.04
+Hockey,USA,NHL,"Home/Away, FT including OT",2025-04-27,20:00,St. Louis Blues,Winnipeg Jets,1,Betfury,285,1.88,46.38
+Basketball,Slovenia,Liga OTP banka,1X2,2025-04-26,19:00,Helios Domzale,Zlatorog Lasko,2,Mozzartbet,1200,1.54,10.87
+Futsal,Poland,Ekstraklasa,1X2,2025-04-26,20:00,Ruda Slaska,Bielsko-Biala,X,1xBet,1700,1.69,8.93
+Handball,France,Starligue,DNB,2025-04-26,21:00,PSG,Tremblay,2,bet365,2000,1.8,8.78
+Football,Egypt,Premier League,"O/U 3.5, 1st Half",2025-05-01,17:00,Ceramica Cleopatra,National Bank Egypt,Over,1xBet,3300,2.4,8.36
+Football,Spain,Primera RFEF - Group 2,"O/U 3.5, 1st Half",2025-04-27,20:30,Hercules,Alcorcon,Over,1xBet,2500,2.11,8.34
+Football,Spain,Primera RFEF - Group 1,"O/U 3.5, 1st Half",2025-04-26,17:00,Ath Bilbao B,Cultural Leonesa,Over,1xBet,2500,2.07,8.2
+Football,Egypt,Premier League,"O/U 3.5, 1st Half",2025-05-01,20:00,Al Masry,Zamalek,Over,1xBet,3300,2.37,8.17
+Football,Spain,Primera RFEF - Group 2,"O/U 3.5, 1st Half",2025-04-27,16:30,Merida AD,Antequera,Over,1xBet,2500,2.04,8.06
+Football,Spain,Primera RFEF - Group 1,"O/U 3.5, 1st Half",2025-04-26,19:00,Osasuna B,Andorra,Over,1xBet,2800,2.24,8.04
+Football,Brazil,Serie C,"O/U 3.5, 1st Half",2025-04-26,23:00,Londrina,Maringa FC,Over,1xBet,4000,2.65,7.97
+Football,Brazil,Serie C,"O/U 3.5, 1st Half",2025-04-27,01:30,CSA,Nautico,Over,1xBet,2800,2.09,7.89
+Football,Brazil,Serie C,"O/U 3.5, 1st Half",2025-04-27,22:30,Itabaiana,Sao Bernardo,Over,1xBet,3300,2.42,7.78
+Football,Thailand,Thai League 1,"O/U 4.5, 1st Half",2025-04-27,14:00,Pathum United,Sukhothai,Over,1xBet,3300,2.31,7.77
+Football,Brazil,Serie C,"O/U 3.5, 1st Half",2025-04-29,01:30,SER Caxias,Guarani,Over,1xBet,3300,2.42,7.77
+Football,Brazil,Serie C,"O/U 3.5, 1st Half",2025-04-26,23:00,Confianca,Ponte Preta,Over,1xBet,3300,2.45,7.77
+Football,Spain,Primera RFEF - Group 2,"O/U 3.5, 1st Half",2025-04-27,13:00,Sevilla FC B,Betis B,Over,1xBet,2800,2.09,7.76
+Football,Spain,Primera RFEF - Group 1,"O/U 3.5, 1st Half",2025-04-27,20:30,Zamora,Celta Vigo B,Over,1xBet,2800,2.09,7.76
+Football,Spain,Primera RFEF - Group 2,"O/U 3.5, 1st Half",2025-04-27,13:00,Real Madrid B,Ceuta,Over,1xBet,2800,2.09,7.76
+Football,Brazil,Serie C,"O/U 3.5, 1st Half",2025-04-28,01:00,Botafogo PB,ABC,Over,1xBet,3300,2.31,7.74
+Football,Spain,Primera RFEF - Group 2,"O/U 3.5, 1st Half",,21:30,Sanluqueno,CF Intercity,Over,1xBet,2800,2.09,7.74
+Football,Spain,Primera RFEF - Group 2,"O/U 3.5, 1st Half",,21:30,Marbella,Atl. Madrid B,Over,1xBet,2800,2.09,7.71
+Football,Ecuador,Liga Pro,"O/U 3.5, 1st Half",2025-04-26,22:00,Vinotinto,Dep. Cuenca,Over,1xBet,3300,2.26,7.65
+Football,Thailand,Thai League 1,"O/U 4.5, 1st Half",2025-04-27,14:00,Muang Thong Utd,Nakhon Ratchasima FC,Over,1xBet,4000,2.6,7.65
+Football,Brazil,Serie C,"O/U 3.5, 1st Half",2025-04-27,01:30,Retro,Figueirense,Over,1xBet,4000,2.6,7.65
+Football,Canada,Canadian Premier League,"O/U 3.5, 1st Half",2025-04-27,00:00,Cavalry,Atl. Ottawa,Over,1xBet,2800,2.03,7.63
+Football,Ecuador,Liga Pro,"O/U 3.5, 1st Half",2025-04-28,02:00,Emelec,Tecnico U.,Over,1xBet,3300,2.25,7.62
+Football,Spain,Primera RFEF - Group 2,"O/U 3.5, 1st Half",2025-04-26,21:00,Yeclano,Algeciras,Over,1xBet,3300,2.28,7.6
+Football,Spain,Primera RFEF - Group 2,"O/U 3.5, 1st Half",2025-04-27,18:30,Murcia,Villarreal B,Over,1xBet,2800,2.07,7.59
+Football,Spain,Primera RFEF - Group 1,"O/U 3.5, 1st Half",2025-04-26,21:00,Real Sociedad B,Unionistas,Over,1xBet,2800,2.07,7.59
+Football,Brazil,Serie C,"O/U 3.5, 1st Half",2025-04-27,22:30,Ituano,Tombense,Over,1xBet,4000,2.58,7.52
+Football,South Korea,K3 League,"O/U 3.5, 1st Half",2025-04-26,08:00,Chuncheon,Daejeon Korail,Over,1xBet,3300,2.15,7.13
+Football,South Korea,K3 League,"O/U 3.5, 1st Half",2025-04-26,08:00,Paju Citizen,Gimhae,Over,1xBet,4000,2.39,6.88
+Football,Europe,Champions League Women,"TQ, FT including OT",2025-04-27,16:00,Chelsea W,Barcelona W,1,bet365,3300,2.22,6.77
+Futsal,Poland,Ekstraklasa,1X2,2025-04-26,20:00,Ruda Slaska,Bielsko-Biala,1,1xBet,3000,1.83,5.65
+Hockey,World,World Championship,1X2,2025-05-10,13:20,Slovenia,Canada,X,Betsafe,2900,1.66,5.44
+Hockey,World,World Championship,1X2,2025-05-10,17:20,Sweden,Austria,X,Betfair,3300,1.88,5.41
+Football,Australia,NPL Tasmania,O/U 0.5,2025-04-26,07:15,Riverside Olympic,Glenorchy Knights,Under,1xBet,4900,2.09,5.16
+Boxing,World,Super Middleweight - Others matches Men,1X2,2025-06-01,01:00,Charlo Ja.,LaManna T.,X,1xBet,3900,1.76,4.54
+Boxing,World,Bantamweight - WBO Title Men,1X2,2025-05-28,13:00,Takei Y.,Tongdee Y.,X,22Bet,3900,1.71,4.46
+Boxing,World,Lightweight - WBO Title Men,1X2,2025-06-08,01:00,Davis K.,De Los Santos E.,X,22Bet,3700,1.58,4.17
+Basketball,Brazil,NBB,"1X2, 1st Half",2025-04-27,17:00,Flamengo,Caxias do Sul,X,Cloudbet,3629,1.53,3.83
+Boxing,World,Super Middleweight - Others matches Men,1X2,2025-06-01,01:00,Plant C.,Resendiz J. A.,X,1xBet,4800,1.79,3.79
+Basketball,Switzerland,SB League,"1X2, 1st Half",2025-04-26,18:30,BBC Monthey,Fribourg Olympic,X,Cloudbet,4724,1.8,3.59
+Hockey,World,World Championship,1X2,2025-05-10,13:20,Slovenia,Canada,1,Betsafe,4900,1.65,3.35
+Boxing,World,Heavyweight - Others matches Men,1X2,2025-05-24,21:00,Itauma M.,Balogun M.,X,1xBet,4900,1.59,3.21
