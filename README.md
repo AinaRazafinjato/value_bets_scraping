@@ -14,8 +14,7 @@ Un outil de scraping Python pour extraire les **value bets** depuis [OddsPortal]
 4. [Structure du projet](#structure-du-projet)  
 5. [Utilisation](#utilisation)  
 6. [Journalisation](#journalisation)  
-7. [Contributions](#contributions)  
-8. [Licence](#licence)  
+7. [Contributions](#contributions)
 
 ---
 
@@ -65,14 +64,20 @@ Un outil de scraping Python pour extraire les **value bets** depuis [OddsPortal]
 
 ## Structure du projet 🗂️
 
+
   ```bash
     .
+    ├── oddsportal/
+        └── scraping/
+            ├── local_analysis/
+                ├── local_analysis.ipynb    # Notebook Jupyter pour analyses ultérieures
+                └── oddsportal_content.html
+            ├── oddsportal_data.csv         # Fichier de sortie CSV
+            ├── oddsportal_scraping.py 
+            └── oddsportal.log              # Fichier de log 
     ├── .gitignore
-    ├── oddsportal_data.csv       # Fichier de sortie CSV (ignoré par Git)
-    ├── oddsportal.html          # Copie locale de la page scrappée (ignoré par Git)
-    ├── oddsportal.log           # Fichier de log (Loguru, ignoré par Git)
-    ├── local_analysis.ipynb     # Notebook Jupyter pour analyses ultérieures
-    └── oddsportal_playwright_beatifulsoup.py
+    ├── README.md
+    └── requirements.txt
   ```
 
 - **`oddsportal_playwright_beatifulsoup.py`**  
@@ -94,15 +99,16 @@ Un outil de scraping Python pour extraire les **value bets** depuis [OddsPortal]
 
 1. Lancer le script de scraping :  
   ```bash
-  python oddsportal_playwright_beatifulsoup.py
+  cd oddsportal/scraping/
+  python oddsportal_scraping.py
   ```
 
 2. Résultat :  
-  - Le fichier **`oddsportal_data.csv`** est généré à la racine du projet.  
+  - Le fichier **`oddsportal_data.csv`** est généré dans le dossier **`local_analysis/`**.  
   - Consultez **`oddsportal.log`** pour suivre l’exécution étape par étape.
 
 3. Analyse :  
-  Ouvrez **`local_analysis.ipynb`** pour voir l'analyse avec BeautifulSoup fait en locale.
+  Ouvrez **`local_analysis.ipynb`** pour faire l'analyse avec BeautifulSoup fait en locale.
 
 ---
 

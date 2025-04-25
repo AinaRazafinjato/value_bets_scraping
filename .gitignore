@@ -1,5 +1,5 @@
-# Ignorer tous les fichiers avec une extension ".csv, .png, .log, .html"
-*.csv
+# Ignorer tous les fichiers .log
 *.log
-*.html
+
+# Ignorer le dossier de test
 test/
