@@ -66,6 +66,7 @@ Un outil de scraping Python pour extraire les **value bets** depuis [OddsPortal]
 
 ## Structure du projet 🗂️
 
+
   ```bash
     .
     ├── oddsportal/
@@ -105,10 +106,13 @@ Un outil de scraping Python pour extraire les **value bets** depuis [OddsPortal]
   python oddsportal_scraping.py
   ```
 
-2. Résultat :  
+2. Résultat :
 
 - Le fichier **`oddsportal_data.csv`** est généré dans le dossier **`local_analysis/`**.  
 - Consultez **`oddsportal.log`** pour suivre l’exécution étape par étape.
+=======
+  - Le fichier **`oddsportal_data.csv`** est généré dans le dossier **`local_analysis/`**.  
+  - Consultez **`oddsportal.log`** pour suivre l’exécution étape par étape.
 
 3. Analyse :  
   Ouvrez **`local_analysis.ipynb`** pour faire l'analyse avec BeautifulSoup fait en locale.
