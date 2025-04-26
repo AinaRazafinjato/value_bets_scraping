@@ -3,3 +3,6 @@
 
 # Ignorer le dossier de test
 test/
+
+# Ignorer le dossier '.idea' de Pycham
+.idea/
