@@ -39,12 +39,6 @@ with sync_playwright() as p:
         html = page.content()
         logger.info("Contenu HTML récupéré")
 
-        output_path = "local_analysis/"
-        output_file = "oddsportal_content.html"
-        with open((output_path + output_file), "w", encoding="utf-8") as file:
-            file.write(html)
-        logger.info(f"Page sauvegardée localement dans le fichier : {output_file}")
-
     except Exception as e:
         logger.error(f"Erreur lors du chargement de la page ou du clic : {e}")
     finally:

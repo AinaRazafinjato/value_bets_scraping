@@ -1,5 +1,6 @@
-# Ignorer tous les fichiers .log
+# Ignorer tous les fichiers .log et .csv
 *.log
+*.csv
 
 # Ignorer le dossier de test
 test/

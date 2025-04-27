@@ -67,13 +67,9 @@ Un outil de scraping Python pour extraire les **value bets** depuis [OddsPortal]
 ```bash
 .
 ├── oddsportal/
-│   └── scraping/
-│       ├── local_analysis/
-│       │   ├── local_analysis.ipynb    # Notebook Jupyter pour analyses ultérieures
-│       │   └── oddsportal_content.html
-│       ├── oddsportal_data.csv         # Fichier de sortie CSV
+│       ├── oddsportal_data.csv         # Fichier de sortie CSV (ignoré dans .gitignore)
 │       ├── oddsportal_scraping.py 
-│       └── oddsportal.log              # Fichier de log 
+│       └── oddsportal.log              # Fichier de log (ignoré dans .gitignore)
 ├── .gitignore
 ├── README.md
 └── requirements.txt
@@ -85,9 +81,6 @@ Un outil de scraping Python pour extraire les **value bets** depuis [OddsPortal]
   - 📄 Récupère le HTML  
   - 🔍 Parse avec BeautifulSoup  
   - 🧹 Nettoie les données et les enregistre en CSV  
-
-- **`local_analysis.ipynb`**  
-  📓 Notebook pour explorer et visualiser les value bets extraits.
 
 - **`.gitignore`**  
   🚫 Exclut les fichiers de logs, captures et CSV générés.
@@ -105,14 +98,9 @@ Un outil de scraping Python pour extraire les **value bets** depuis [OddsPortal]
 
 2. Résultat :
 
-- Le fichier **`oddsportal_data.csv`** est généré dans le dossier **`local_analysis/`**.  
+- Le fichier **`oddsportal_data.csv`** est généré à côté du fichier **`oddsportal_scraping.py`**.  
 - Consultez **`oddsportal.log`** pour suivre l’exécution étape par étape.
-=======
-  - Le fichier **`oddsportal_data.csv`** est généré dans le dossier **`local_analysis/`**.  
-  - Consultez **`oddsportal.log`** pour suivre l’exécution étape par étape.
 
-3. **Analyse** :  
-  Ouvrez **`local_analysis.ipynb`** pour effectuer une analyse locale des données extraites.
 
 ---
 
