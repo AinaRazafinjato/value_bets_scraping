@@ -7,3 +7,6 @@ test/
 
 # Ignorer le dossier '.idea' de Pycham
 .idea/
+
+# Ignorer tous les fichier de configuration de l'environnement virtuel
+*.env
